@@ -1,0 +1,9 @@
+# ignore notes file
+#/c/Users/smith/pyproj/weblearn/notes.txt
+notes.txt
+
+# ignore specific directory
+.ssh
+
+# ignore environment variables
+.env
