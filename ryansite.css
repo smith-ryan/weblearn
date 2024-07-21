@@ -16,9 +16,21 @@ p {
 	font-family: arial;
 }
 
-#footer {
+.fixed {
 	postiion:fixed;
 	bottom:0;
 	left:0;
-	font-family: arial;
 }
+
+.button {
+	background-color: blue;
+	border: 0.5px;
+	border-radius: 5px;
+	color: white;
+	text-align: center;
+	font-size: 12px;
+	padding: 10px 15px;
+	cursor: pointer;
+}
+
+title-icon = <link rel="icon" type="image/x-icon" href="C:/Users/smith/pyproj/weblearn/img/Bubble Logo 1.png">
