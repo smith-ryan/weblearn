@@ -17,9 +17,9 @@ p {
 }
 
 .fixed {
-	postiion:fixed;
+	position:fixed;
 	bottom:0;
-	left:0;
+	text-align: center;	
 }
 
 .button {
@@ -28,7 +28,14 @@ p {
 	border-radius: 5px;
 	color: white;
 	text-align: center;
-	font-size: 12px;
+	font-size: 14px;
 	padding: 10px 15px;
 	cursor: pointer;
+}
+
+.bottom {
+	position: absolute;
+	bottom: 0px;
+	text-align: center;
+	width: 100%;
 }
