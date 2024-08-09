@@ -39,3 +39,19 @@ p {
 	text-align: center;
 	width: 100%;
 }
+
+.responsive {
+	width: 100%;
+	height: auto;
+}
+
+.hero-image1{
+	background-image: url('img/Bubble Logo 1.png');
+	background-color: #cccccc;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	position: absolute;
+	height: 100%;
+	width: 100%;
+}
